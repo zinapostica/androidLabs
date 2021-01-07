@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "194659509088",
+    "firebase_url": "https://chatapp-3fdac-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "chatapp-3fdac",
+    "storage_bucket": "chatapp-3fdac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:194659509088:android:b872aa4448d32ea7f57405",
+        "android_client_info": {
+          "package_name": "com.zina.flashchatnewfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "194659509088-rh0ou3q6lbm0hfvl6fup8a2q3fnk49uh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOs_q2oeP4qciOUaFZ0Jsm6q5Q9OS8Xkg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "194659509088-rh0ou3q6lbm0hfvl6fup8a2q3fnk49uh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
